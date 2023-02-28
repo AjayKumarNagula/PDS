@@ -1,5 +1,5 @@
 #Reading the csv file
-frailty_data = read.csv("C:\\Users\\msred\\OneDrive\\Documents\\pds\\1\\data_raw\\raw_frailty_data1.csv")
+frailty_data = read.csv(""C:\Users\ajayn\OneDrive\Ajay\PDS\1\data_raw\raw_frailty_data1.csv"")
 
 #Getting the info of complete csv
 summary(frailty_data)
